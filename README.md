@@ -2,7 +2,7 @@
 
 ## About Me
 - Name: Matvii
-- Age: 17
+- Age: 18
 - Location: Poland, Wroclaw
 
 ## Skills
